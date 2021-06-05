@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Asadbek004/online-shop.git/static/css/main.0a76e20b.chunk.css",
+    "main.js": "/Asadbek004/online-shop.git/static/js/main.1ae92377.chunk.js",
+    "main.js.map": "/Asadbek004/online-shop.git/static/js/main.1ae92377.chunk.js.map",
+    "runtime-main.js": "/Asadbek004/online-shop.git/static/js/runtime-main.9751e131.js",
+    "runtime-main.js.map": "/Asadbek004/online-shop.git/static/js/runtime-main.9751e131.js.map",
+    "static/css/2.4f8976c6.chunk.css": "/Asadbek004/online-shop.git/static/css/2.4f8976c6.chunk.css",
+    "static/js/2.d0b5fe78.chunk.js": "/Asadbek004/online-shop.git/static/js/2.d0b5fe78.chunk.js",
+    "static/js/2.d0b5fe78.chunk.js.map": "/Asadbek004/online-shop.git/static/js/2.d0b5fe78.chunk.js.map",
+    "index.html": "/Asadbek004/online-shop.git/index.html",
+    "static/css/2.4f8976c6.chunk.css.map": "/Asadbek004/online-shop.git/static/css/2.4f8976c6.chunk.css.map",
+    "static/css/main.0a76e20b.chunk.css.map": "/Asadbek004/online-shop.git/static/css/main.0a76e20b.chunk.css.map",
+    "static/js/2.d0b5fe78.chunk.js.LICENSE.txt": "/Asadbek004/online-shop.git/static/js/2.d0b5fe78.chunk.js.LICENSE.txt",
+    "static/media/Group 1.3f143e12.png": "/Asadbek004/online-shop.git/static/media/Group 1.3f143e12.png",
+    "static/media/photo_2021-05-26_15-38-01.76412740.jpg": "/Asadbek004/online-shop.git/static/media/photo_2021-05-26_15-38-01.76412740.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9751e131.js",
+    "static/css/2.4f8976c6.chunk.css",
+    "static/js/2.d0b5fe78.chunk.js",
+    "static/css/main.0a76e20b.chunk.css",
+    "static/js/main.1ae92377.chunk.js"
+  ]
+}
