@@ -9,7 +9,7 @@ const FooterCom = () => {
                     <div className="container" style={{textAlign:"center"}}>
                         <h3 className="all">© 2021 <span> ComfySloth </span> All rights reserved </h3>
                         <small style={{color:"white"}}>
-                            Designed by X.Farhodkhuja 
+                            Designed by Ibragimov Asadbek
                         </small>
                     </div>
                     <div>
